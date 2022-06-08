@@ -1,0 +1,10 @@
+{
+    "stryker-config": {
+        "reporters": [
+            "progress",
+            "html"
+        ],
+        "solution": "../TestingStrykerIssues.sln",
+        "project": "TestingStrykerIssues.csproj"
+    }
+}
